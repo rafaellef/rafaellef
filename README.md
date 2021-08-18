@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @rafaellef
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @rafaellef and I started my journey to become a web developer in 2021.
+  
+  I am a self-taught person who likes to solve problems; if I had to describe myself in two words I would say I am curious and analytical. 
+  My main philosophy in life is based on critical thinking and prudence, without neglecting the search for adventures in new ways.
+
+  My main strengths are creativity, love of learning, judgment, perseverance.
+  My main weaknesses are sarcasm, gratitude and spirituality.
+
+- 👀 I'm interested in new ideas, philosophy, technology, politics, music, books, movies, travel, meditation and who knows what else...
+- 🌱 I’m currently learning React, Node
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 To contact me add me on LinkedIn and leave your message and I will get back to you as soon as possible. 
+- https://www.linkedin.com/in/rafaellfernandes/
 
 <!---
 rafaellef/rafaellef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
